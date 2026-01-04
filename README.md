@@ -64,7 +64,8 @@ Interact with the app
 
 Click buttons to generate content
 
-🧩 How It Works
+**How It Works**
+
 The HTML page contains UI elements like buttons and content containers.
 
 index.js listens for button clicks.
